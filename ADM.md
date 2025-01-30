@@ -1,0 +1,10 @@
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua
+local Window = Library.CreateLib("سكربت بيبسي", "DarkTheme")
+local Tab = Window:NewTab("مشكوك")
+local Section = Tab:NewSection("ولا شي")
+Section:NewButton("ButtonText", "natural disaster survival", function()
+    print("Clicked")
+end)loadstring(game:HttpGet("https://rawscripts.net/raw/Universal-Script-Super-Ring-Parts-24440"))()
+Section:NewButton("ButtonText", "هز زب", function()
+    print("Clicked")
+end)loadstring(game:HttpGet("https://rawscripts.net/raw/Universal-Script-Sus-Movement-GUI-25560"))()
